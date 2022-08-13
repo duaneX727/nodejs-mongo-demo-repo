@@ -10,6 +10,7 @@
     "testEnvironment": "node"
   },
   "scripts": {
+    "start": "node app.js",
     "test": "jest --runInBand --detectOpenHandles --forceExit"
   },
   "keywords": [],
