@@ -1,6 +1,6 @@
 {
   "name": "Vidly App",
-  "jwtPrivateKey": "1234",
+  "jwtPrivateKey": "",
   "db": {
      "host": "mongodb://localhost/vidlyDB_tests",
      "port": "3000"
